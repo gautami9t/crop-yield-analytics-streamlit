@@ -1,5 +1,6 @@
 # crop-yield-analytics-streamlit
 An interactive dashboard for analyzing crop yield based on fertilizer, soil nutrients, and temperature using Streamlit 
+Link for the Dashboard:  https://crop-yield-analytics-9.streamlit.app/
 
 ## 🧾 Features of the Smart Irrigation Dashboard
 
