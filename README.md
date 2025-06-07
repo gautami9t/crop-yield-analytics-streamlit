@@ -74,13 +74,3 @@ The dataset contains columns for:
 - `temp` (Temperature in °C)
 - `yeild` (Crop yield, target variable)
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository  
-2. Navigate to the project directory  
-3. Run:
-
-```bash
-streamlit run app.py.
