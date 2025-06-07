@@ -1,6 +1,0 @@
-[theme]
-primaryColor = "#4CAF50"              # Green (affects sliders, buttons, links)
-backgroundColor = "#F7FFF7"           # Light greenish white
-secondaryBackgroundColor = "#E8F5E9"  # Slightly deeper background
-textColor = "#000000"                 # Black text
-font = "sans serif"
