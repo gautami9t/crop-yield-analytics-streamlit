@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Smart Irrigation Dashboard", layout="wide")
 
 # Load dataset
-file_path = "C:/Users/grtha/OneDrive/Desktop/Crop Yiled with Soil and Weather.csv"
+file_path = "Crop_yield.csv"
 df = pd.read_csv(file_path)
 
 # 🌾 Title and Sidebar Description
